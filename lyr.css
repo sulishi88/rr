@@ -1,0 +1,480 @@
+.page1{
+    background: url(image/o_1c9cae10t377osrtf71ds9h7il.gif);
+    no-repeat;
+    background-size:cover;
+}
+.page2{
+    background: url(image/o_1c9cae10t377osrtf71ds9h7il.gif);
+    no-repeat;
+    background-size:cover;
+}
+.page3{
+    background: url(image/黑色.webp);
+    no-repeat;
+    background-size:cover;
+}
+.page4{
+    background: url(image/黑色.webp);
+    no-repeat;
+    background-size:cover;
+}
+.page5{
+    background: url(image/背景.webp);
+    no-repeat;
+    background-size:cover;
+}
+.page6{
+    background: url(image/跑人.gif);
+    no-repeat;
+    background-size:cover;
+}
+.page7{
+    background: url(image/背景.webp);
+    no-repeat;
+    background-size:cover;
+}
+.page8{
+    background: url(image/转星星.gif);
+    no-repeat;
+    background-size:cover;
+}
+.page1 span:nth-of-type(1) 
+{   color: white;
+    font-size: 1.3rem;
+    padding-left: 3rem;
+    line-height: 2.7rem;
+}
+.page1 span:nth-of-type(2) 
+{   color: white;
+    font-size: 1.3rem;
+    padding-left: 3rem;
+}
+.page1 span:nth-of-type(3) 
+{   color: white;
+    font-size: 1.3rem;
+    padding-left: 3rem;
+    line-height: 3rem;
+}
+.page1 span:nth-of-type(4) 
+{   color: white;
+    font-size: 1.3rem;
+    padding-left: 3rem;
+    
+}
+.page1 span:nth-of-type(5) 
+{   box-sizing: border-box;
+    color: white;
+    font-size: 0.3rem;
+}
+.page1 span:nth-of-type(6) 
+{   box-sizing: border-box;
+    position: absolute;
+    color:white;
+    font-size: 0.9rem;
+    left: 1.5rem;
+    top: 4.5rem;
+}
+.page1 span:nth-of-type(7) 
+{   box-sizing: border-box;
+    position: absolute;
+    color:white;
+    font-size: 0.9rem;
+    left: 1.5rem;
+    top: 5.5rem;
+}
+.page1 span:nth-of-type(8) 
+{   box-sizing: border-box;
+    position: absolute;
+    color:white;
+    font-size: 0.9rem;
+    left: 1.5rem;
+    top: 4.5rem;
+}
+.page1 span:nth-of-type(9) 
+{   box-sizing: border-box;
+    position: absolute;
+    color:white;
+    font-size: 0.9rem;
+    left: 1.5rem;
+    top: 5.5rem;
+}
+.page1 span:nth-of-type(10) 
+{   box-sizing: border-box;
+    position: absolute;
+    color:white;
+    font-size: 1.0rem;
+    left: 0.6rem;
+    top: 5rem;
+}
+.page1 span:nth-of-type(11) 
+{   box-sizing: border-box;
+    position: absolute;
+    color:white;
+    font-size: 1.0rem;
+    left: 0.6rem;
+    top: 5rem;}
+.page2 span:nth-of-type(1){
+    color: coral;
+    font-size: 0.5rem;
+    padding:2.2rem;
+    line-height: 2rem;
+}
+.page2 span:nth-of-type(2){
+    color: aliceblue;
+    font-size: 0.4rem;
+    padding:1rem;
+    line-height: 1rem;
+}
+.page2 span:nth-of-type(3){
+    color: aliceblue;
+    font-size: 0.4rem;
+    padding:0.5rem;
+    line-height: 1rem;
+}
+.page2 span:nth-of-type(4){
+    color: aliceblue;
+     font-size: 0.4rem;
+     padding:1rem;
+     line-height: 1rem;
+    }
+.page2 span:nth-of-type(5){
+     color: aliceblue;
+     font-size: 0.4rem;
+     padding:0.5rem;
+     line-height: 1rem;
+    }
+.page2 span:nth-of-type(6){
+    color: aliceblue;
+    font-size: 0.4rem;
+    padding:1rem;
+    line-height: 1rem;
+}
+ .page2 span:nth-of-type(7){
+    color: aliceblue;
+    font-size: 0.4rem;
+    padding:0rem;
+    line-height: 1rem;
+}
+.page2 span:nth-of-type(8){
+    color: coral;
+    font-size: 0.5rem;
+    padding:2rem;
+    line-height: 1rem;
+}
+.page2 span:nth-of-type(9){
+    color: aliceblue;
+    font-size: 0.3rem;
+    padding-left:2.2rem;
+    line-height: 0.5rem;
+}
+.page3 img{position: absolute;}
+.page3 img:nth-of-type(2){
+box-sizing: border-box;
+top: 2rem;
+}
+.page3 img:nth-of-type(3){
+    box-sizing: border-box;
+    bottom: 2rem;
+    right: 0;
+    }
+.page3 span:nth-of-type(1)
+{   box-sizing: border-box;
+    position: absolute;
+    color: lightblue;
+    left: 1.6rem;
+    top: 0.8rem;
+    font-size: 0.8rem;
+}
+.page3 span:nth-of-type(2){
+    box-sizing: border-box;
+    position: absolute;
+    color: aliceblue;
+    left: 2.8rem;
+    top: 2.5rem;
+    font-size: 0.3rem;
+}
+.page3 span:nth-of-type(3){
+    box-sizing: border-box;
+    position: absolute;
+    color: aliceblue;
+    left: 2.8rem;
+    top: 3.5rem;
+    font-size: 0.3rem;
+}
+.page3 span:nth-of-type(4){
+    box-sizing: border-box;
+    position: absolute;
+    color: aliceblue;
+    left: 2.8rem;
+    top: 4.5rem;
+    font-size: 0.3rem;
+}
+.page3 span:nth-of-type(5){
+    box-sizing: border-box;
+    position: absolute;
+    color: aliceblue;
+    left: 0.8rem;
+    top: 6rem;
+    font-size: 0.4rem;
+}
+.page3 span:nth-of-type(6){
+    box-sizing: border-box;
+    position: absolute;
+    color: aliceblue;
+    left: 0.8rem;
+    top: 7rem;
+    font-size: 0.4rem;
+}
+.page3 span:nth-of-type(7){
+    box-sizing: border-box;
+    position: absolute;
+    color: aliceblue;
+    left: 0.8rem;
+    top: 8rem;
+    font-size: 0.4rem;
+}
+.page3 span:nth-of-type(8){
+    box-sizing: border-box;
+    position: absolute;
+    color: aliceblue;
+    left: 0.8rem;
+    top: 9.3rem;
+    font-size: 0.3rem;
+}
+.page3 img:nth-of-type(4){
+    box-sizing: border-box;
+    position: absolute;
+    left: 2.5rem;
+    top: 6.1rem;
+}
+.page3 img:nth-of-type(5){
+    box-sizing: border-box;
+    position: absolute;
+    left: 2.5rem;
+    top: 7.1rem;
+}
+.page3 img:nth-of-type(6){
+    box-sizing: border-box;
+    position: absolute;
+    left: 2.5rem;
+    top: 8.1rem;
+}
+.page4 img{position: absolute;}
+.page4 img:nth-of-type(2){
+box-sizing: border-box;
+top: 2rem;
+right: 0;
+top: 1rem;
+}
+.page4 img:nth-of-type(3){
+    box-sizing: border-box;
+    bottom: 1.5rem;
+    left: 0;
+}
+.page4 span:nth-of-type(1){
+    box-sizing: border-box;
+    position: absolute;
+    color: lightblue;
+    top: 1.2rem;
+    left: 1em;
+    font-size: 0.7rem;}
+.page4 span:nth-of-type(2){
+    box-sizing: border-box;
+    position: absolute;
+    color: aliceblue;
+    top: 3.1rem;
+    left: 1.2em;
+    font-size: 0.3rem;
+    }
+.page4 img:nth-of-type(5){
+    box-sizing: border-box;
+    position: absolute;
+    top: 3.5rem;
+    left: 1.2em;
+}
+.page4 span:nth-of-type(3){
+    box-sizing: border-box;
+    position: absolute;
+    color: aliceblue;
+    top: 4.8rem;
+    left: 1.2em;
+    font-size: 0.3rem;
+    }
+.page4 img:nth-of-type(6){
+        box-sizing: border-box;
+        position: absolute;
+        top: 5rem;
+        left: 1.2em;
+    }
+    .page4 span:nth-of-type(4){
+        box-sizing: border-box;
+        position: absolute;
+        color: aliceblue;
+        top: 6.3rem;
+        left: 1.2em;
+        font-size: 0.3rem;
+        }
+ .page4 img:nth-of-type(7){
+        box-sizing: border-box;
+        position: absolute;
+        top: 6.5rem;
+        left: 1.2em;}
+ .page4 img:nth-of-type(8){
+        box-sizing: border-box;
+        bottom: 1.2rem;
+        left:3rem;}
+.page4 img:nth-of-type(9){
+        box-sizing: border-box;
+        bottom: 2.5rem;
+        left:5.5rem;}
+
+.page5 span:nth-of-type(1){
+    box-sizing: border-box;
+    position: absolute;
+    font-size: 1rem;
+    color: aliceblue;
+    top: 0.5rem;
+    left: 1.6rem;
+}
+.page5 span:nth-of-type(2){
+    box-sizing: border-box;
+    position: absolute;
+    font-size: 0.3rem;
+    color: aliceblue;
+    top: 2rem;
+    left: 1rem;
+    right: 1rem;
+}
+.page5 span:nth-of-type(3){
+    box-sizing: border-box;
+    position: absolute;
+    font-size: 0.3rem;
+    color: aliceblue;
+    top: 4.5rem;
+    left: 1rem;
+    right: 1rem;
+}
+.page5 img:nth-of-type(2){
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 1rem;
+    left: 1.3rem;
+}
+.page6 span:nth-of-type(1){
+    box-sizing: border-box;
+    position: absolute;
+    top: 3rem;
+    left: 2.3rem;
+    font-size: 0.7rem;
+    color:white;
+}
+.page6 span:nth-of-type(2){
+    box-sizing: border-box;
+    position: absolute;
+    top: 4.5rem;
+    left: 2.3rem;
+    font-size: 0.7rem;
+    color:white;
+}
+.page6 span:nth-of-type(3){
+    box-sizing: border-box;
+    position: absolute;
+    top: 6rem;
+    left: 2.3rem;
+    font-size: 0.7rem;
+    color:white;
+}
+.page6 span:nth-of-type(4){
+    box-sizing: border-box;
+    position: absolute;
+    top: 7.5rem;
+    left: 2.3rem;
+    font-size: 0.7rem;
+    color:white;
+}
+.page7 span:nth-of-type(1){
+    box-sizing: border-box;
+    position: absolute;
+    top: 1rem;
+    left: 1.3rem;
+    font-size: 1rem;
+    color: aliceblue;
+}
+.page7 img:nth-of-type(1){
+    box-sizing: border-box;
+    position: absolute;
+    top: 3rem;
+    left: 1.3rem;
+}
+.page7 img:nth-of-type(2){
+    box-sizing: border-box;
+    position: absolute;
+    top: 4.5rem;
+    left: 1.3rem;
+}
+.page7 img:nth-of-type(3){
+    box-sizing: border-box;
+    position: absolute;
+    top: 6rem;
+    left: 1.3rem;
+}
+.page7 img:nth-of-type(4){
+    box-sizing: border-box;
+    position: absolute;
+    top: 7.5rem;
+    left: 1.3rem;
+}
+.page7 img:nth-of-type(5){
+    box-sizing: border-box;
+    position: absolute;
+    top: 9rem;
+    left: 1.3rem;
+}
+.page7 span:nth-of-type(2){
+    box-sizing: border-box;
+    position: absolute;
+    top: 3.2rem;
+    left: 2.5rem;
+    font-size: 0.4rem;
+    color: antiquewhite;
+}
+.page7 span:nth-of-type(3){
+    box-sizing: border-box;
+    position: absolute;
+    top: 4.7rem;
+    left: 2.5rem;
+    font-size: 0.4rem;
+    color: antiquewhite;
+}
+.page7 span:nth-of-type(4){
+    box-sizing: border-box;
+    position: absolute;
+    top: 6.2rem;
+    left: 2.5rem;
+    font-size: 0.4rem;
+    color: antiquewhite;
+}
+.page7 span:nth-of-type(5){
+    box-sizing: border-box;
+    position: absolute;
+    top: 7.7rem;
+    left: 2.5rem;
+    font-size: 0.4rem;
+    color: antiquewhite;
+}
+.page7 span:nth-of-type(6){
+    box-sizing: border-box;
+    position: absolute;
+    top: 9.2rem;
+    left: 2.5rem;
+    font-size: 0.4rem;
+    color: antiquewhite;
+}
+.page8 span{
+    box-sizing: border-box;
+    position: absolute;
+    top:5rem;
+    left:1rem;
+    font-size: 0.8rem;
+    color: aliceblue;
+}
